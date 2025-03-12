@@ -1,44 +1,48 @@
 [
   {
-    "question": "Flutter ямар програмчлалын хэл дээр бичигддэг вэ?",
-    "img": "https://raw.githubusercontent.com/Zuugii15/Aslag/refs/heads/main/porsche.jpeg",
-    "options": ["Java", "Dart", "Swift", "Kotlin"],
-    "answer": "Dart"
+    "question": "Энэ ямар машины лого вэ?",
+    "img-url": "https://raw.githubusercontent.com/Zuugii15/Aslag/refs/heads/main/porsche.jpeg",
+    "options": ["Ferrari", "Cadillac", "Porsche", "Brabus"],
+    "answer": "Porsche"
   },
   {
-    "question": "Flutter ямар UI framework вэ?",
-    "options": ["React Native", "SwiftUI", "Jetpack Compose", "Flutter"],
-    "answer": "Flutter"
+    "question": "Энэ ямар машины лого вэ??",
+     "img-url": "https://raw.githubusercontent.com/Zuugii15/Aslag/refs/heads/main/samsung.jpeg",
+    "options": ["Renault", "Dyson", "Samsung", "Nissan"],
+    "answer": "Samsung"
   },
   {
-    "question": "Flutter-д StatefulWidget болон StatelessWidget хоёрын ялгаа юу вэ?",
+    "question": "Энэ ямар машины лого вэ?",
+     "img-url": "https://raw.githubusercontent.com/Zuugii15/Aslag/refs/heads/main/pegeot.jpegg",
     "options": [
-      "StatefulWidget-д төлөв өөрчлөгдөхгүй",
-      "StatelessWidget-д төлөв өөрчлөгдөхгүй",
-      "StatefulWidget-д төлөв хадгалагддаггүй",
-      "StatelessWidget нь setState() ашигладаг"
+      "Alfa Romeo",
+      "Peugeot",
+      "Jaguar",
+      "Puma"
     ],
-    "answer": "StatelessWidget-д төлөв өөрчлөгдөхгүй"
+    "answer": "Peugeot"
   },
   {
-    "question": "Монгол улс ямар тивд байдаг вэ?",
+    "question": "Энэ ямар машины лого вэ?",
+     "img-url": "https://raw.githubusercontent.com/Zuugii15/Aslag/refs/heads/main/opel.jpeg",
     "options": [
-      "Ази",
-      "Америк",
-      "Европ",
-      "Африк"
+      "Honda",
+      "Lotus",
+      "Nissan",
+      "Opel"
     ],
-    "answer": "Ази"
+    "answer": "Opel"
   },
   {
-    "question": "Герман улс ямар тивд байдаг вэ?",
+    "question": "Энэ ямар машины лого вэ?",
+     "img-url": "https://raw.githubusercontent.com/Zuugii15/Aslag/refs/heads/main/maserati.jpeg",
     "options": [
-      "Ази",
-      "Америк",
-      "Европ",
-      "Африк"
+      "Maserati",
+      "Trident",
+      "Bugatti",
+      "Koenigsegg"
     ],
-    "answer": "Европ"
+    "answer": "Maserati"
   }
   
 ]
