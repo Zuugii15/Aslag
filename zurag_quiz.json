@@ -1,19 +1,19 @@
 [
   {
     "question": "Энэ ямар машины лого вэ?",
-    "img-url": "https://raw.githubusercontent.com/Zuugii15/Aslag/refs/heads/main/porsche.jpeg",
+    "imgurl": "https://raw.githubusercontent.com/Zuugii15/Aslag/refs/heads/main/porsche.jpeg",
     "options": ["Ferrari", "Cadillac", "Porsche", "Brabus"],
     "answer": "Porsche"
   },
   {
     "question": "Энэ ямар машины лого вэ??",
-     "img-url": "https://raw.githubusercontent.com/Zuugii15/Aslag/refs/heads/main/samsung.jpeg",
+     "imgurl": "https://raw.githubusercontent.com/Zuugii15/Aslag/refs/heads/main/samsung.jpeg",
     "options": ["Renault", "Dyson", "Samsung", "Nissan"],
     "answer": "Samsung"
   },
   {
     "question": "Энэ ямар машины лого вэ?",
-     "img-url": "https://raw.githubusercontent.com/Zuugii15/Aslag/refs/heads/main/pegeot.jpegg",
+     "imgurl": "https://raw.githubusercontent.com/Zuugii15/Aslag/refs/heads/main/pegeot.jpegg",
     "options": [
       "Alfa Romeo",
       "Peugeot",
@@ -24,7 +24,7 @@
   },
   {
     "question": "Энэ ямар машины лого вэ?",
-     "img-url": "https://raw.githubusercontent.com/Zuugii15/Aslag/refs/heads/main/opel.jpeg",
+     "imgurl": "https://raw.githubusercontent.com/Zuugii15/Aslag/refs/heads/main/opel.jpeg",
     "options": [
       "Honda",
       "Lotus",
@@ -35,7 +35,7 @@
   },
   {
     "question": "Энэ ямар машины лого вэ?",
-     "img-url": "https://raw.githubusercontent.com/Zuugii15/Aslag/refs/heads/main/maserati.jpeg",
+     "imgurl": "https://raw.githubusercontent.com/Zuugii15/Aslag/refs/heads/main/maserati.jpeg",
     "options": [
       "Maserati",
       "Trident",
